@@ -1,0 +1,74 @@
+html{
+    background: pink;
+}
+
+body{
+    background: white;
+    height: 3000px;
+}
+
+h1{
+    font-family: Brusher;
+    font-size: 110px;
+    text-align: center;
+    color: #db9dd2;
+    letter-spacing: 5px;
+    margin-top: 15px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #905ba0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 17px;
+}
+
+li a:hover {
+    background-color: rebeccapurple;
+}
+
+.widgets{
+    float: right;
+    margin-right: 15px;
+}
+
+.post_calendar{
+   left: 0;
+   position: static;
+   margin-bottom: 20px;
+   padding: 15px;
+   background: gray;
+}
+
+.bio{
+    left: 0;
+    position: static;
+    margin-bottom: 20px;
+    padding: 15px;
+    background: gray;
+}
+
+.tweets{
+    left: 0;
+    position: static;
+    padding: 15px;
+    background: gray;
+}
