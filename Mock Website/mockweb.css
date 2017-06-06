@@ -16,7 +16,7 @@ body{
     position:absolute;
     left: 15%;
     text-align: center;
-    top: 13%;
+    top: 29%;
 }
 
 h1{
@@ -49,5 +49,23 @@ img{
 .links{
     text-align: center;
     color: black;
-    font-size: 23px;
+    font-size: 29px;
+}
+
+a{
+    font-family: Helvetica;
+    background: #ff5da2;
+    padding: 15px;
+}
+
+a:link{
+    color: black;
+}
+
+a:active{
+    color: white;
+}
+
+a:visited{
+    color: #651818;
 }
