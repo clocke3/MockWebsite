@@ -1,0 +1,53 @@
+html{
+    background: gray:
+}
+
+body{
+    background: white;
+    height: auto:
+    padding: 0px;
+}
+
+#name{
+    font-family: Kitten Swash Monoline;
+    font-size: 105px;
+    font-weight: 900;
+    color: #ffffff;
+    position:absolute;
+    left: 15%;
+    text-align: center;
+    top: 13%;
+}
+
+h1{
+    margin-top: 0px auto;
+    margin-bottom: 3px ;
+}
+
+#text{
+    float: center;
+    text-align: left;
+    font-family: Helvetica;
+    font-size: 35px;
+    color: #626262;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.image{
+    position: relative;
+}
+
+img{
+    position: static;
+    margin: 0px auto;
+    padding: 0px;
+    margin-left: 8%;
+    opacity: 0.83;
+}
+    
+.links{
+    text-align: center;
+    color: black;
+    font-size: 23px;
+}
