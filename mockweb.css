@@ -1,0 +1,29 @@
+html{
+    background: gray:
+}
+
+body{
+    background: white;
+    height: inherit:
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+h1{
+    font-family: Helvetica;
+    font-size: 130px;
+    font-weight: 900;
+    letter-spacing: -6px;
+    text-align: center;
+    color: red;
+    margin-bottom: 0px;
+}
+
+p{
+    font-family: Helvetica;
+    font-size: 35px;
+    color: black;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
