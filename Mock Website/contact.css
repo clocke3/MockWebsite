@@ -1,9 +1,6 @@
 html{
     background: rgba(255, 216, 0, 0.65);
 }
-body{
-    font-family: Helvetica;
-}
 
 .contact{
     position:absolute;
@@ -11,12 +8,15 @@ body{
     text-align: left;
     top: 5%; 
 }
-h1{
+h1{ 
+    position: relative;
+    left: 25%;
+    font-family: King Basil Lite;
     font-size: 150px;
     margin-bottom: 0px;
-    margin-left: 19px;
     margin-top: 0px;
     padding: 0px;
+    bottom: 0px;
 }
 
 #shade{
@@ -24,17 +24,41 @@ h1{
     color: #f583ff;
     font-size: 150px;
     margin-bottom: 0px;
-    margin-left: 19px;
     margin-top: 0px;
     padding: 0px;
     top: 4.4%; 
-    left: 4.4%;
+    left: 19.35%;
+}
+
+h2{
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-weight: 700;
+    font-size: 101px;
+    color: #39153c;
+    font-size: 37px;
+    margin-left: 35%;
+    margin-top: 0%;
+    margin-bottom: 0px;
+    padding: 0px;
 }
 
 p{
-    color: #89558d;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-weight: 500;
+    color: #39153c;
     font-size: 37px;
-    margin-left: 19px;
-    margin-bottom: 0px;
+    margin-left: 35%;
+    margin-top: 0%;
+    margin-bottom: 4%;
     padding: 0px;
+}
+
+img{
+    float: right;
+    margin-top: 15%;
+    margin-right: 21%;
+    width: 350px;
+    border: 11px solid orange;
 }

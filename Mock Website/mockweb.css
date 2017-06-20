@@ -45,6 +45,13 @@ img{
     margin-left: 8%;
     opacity: 0.83;
 }
+
+.mine img{
+    width: 500px;
+    margin-left: 34%;
+    margin-top: 10%;
+    border: 5px solid #fff618;
+}
     
 .links{
     text-align: center;
