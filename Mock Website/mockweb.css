@@ -1,11 +1,14 @@
 html{
-    background: gray:
+    background-color: #fff2fd;
 }
 
 body{
     background: white;
-    height: auto:
-    padding: 0px;
+    height: auto;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 #name{
@@ -30,8 +33,9 @@ h1{
     font-family: Helvetica;
     font-size: 37px;
     color: #626262;
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 0px;
 }
 
 .image{
@@ -39,35 +43,30 @@ h1{
 }
 
 img{
+    width: 100%;
     position: static;
     margin: 0px auto;
     padding: 0px;
-    margin-left: 8%;
+    margin-left: 0%;
     opacity: 0.83;
-}
-
-.mine img{
-    width: 500px;
-    margin-left: 34%;
-    margin-top: 10%;
-    border: 5px solid #fff618;
 }
     
 .links{
     text-align: center;
     color: black;
     font-size: 29px;
-    margin-bottom: 25px;
+    padding: 50px;
 }
 
 a{
-    font-family: Helvetica;
-    background: #ff5da2;
-    padding: 15px;
+    font-family: Yikes;
+    background: #ff84b9;
+    padding: 25px;
+    margin-bottom: 40px;
 }
 
 a:link{
-    color: black;
+    color: #000000;
 }
 
 a:active{
@@ -75,5 +74,5 @@ a:active{
 }
 
 a:visited{
-    color: #651818;
+    color: #471865;
 }
