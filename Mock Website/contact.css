@@ -1,5 +1,14 @@
 html{
-    background: #fdf051;
+    background-color: #ededed;
+}
+
+body{
+    background-color: white;
+    height: auto;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 0px;
+    padding-bottom: 200px;
 }
 
 .contact{
@@ -10,55 +19,29 @@ html{
 }
 h1{ 
     position: relative;
-    left: 25%;
-    font-family: King Basil Lite;
+    text-align: center;
+    font-family: Wild Youth;
     font-size: 150px;
     margin-bottom: 0px;
     margin-top: 0px;
-    padding: 0px;
-    bottom: 0px;
+    padding-left: 21px;
+    padding-top: 21px;
+    padding-bottom: 0px;
 }
 
-#shade{
-    position: absolute;
-    color: #f583ff;
-    font-size: 150px;
-    margin-bottom: 0px;
-    margin-top: 0px;
+P{
+    font-family: Helvetica;
+    font-size: 35px;
     padding: 0px;
-    top: 4.4%; 
-    left: 19.35%;
-}
-
-h2{
-    text-align: left;
-    font-family: Helvetica Neue;
-    font-weight: 700;
-    font-size: 101px;
-    color: #39153c;
-    font-size: 37px;
-    margin-left: 35%;
-    margin-top: 0%;
-    margin-bottom: 0px;
-    padding: 0px;
-}
-
-p{
-    text-align: left;
-    font-family: Helvetica Neue;
-    font-weight: 500;
-    color: #39153c;
-    font-size: 37px;
-    margin-left: 35%;
-    margin-top: 0%;
-    margin-bottom: 4%;
-    padding: 0px;
+    margin-left: 17%;
+    padding-top: 2%;
+    padding-right: 0px;
 }
 
 img{
     float: right;
-    margin-top: 15%;
-    margin-right: 21%;
-    width: 350px;
-    border: 11px solid orange;
+    margin-top: 5%;
+    margin-right: 17%;
+    width: 370px;
+    border: 11px solid #9d9d9d;
 }

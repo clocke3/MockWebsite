@@ -12,14 +12,13 @@ body{
 }
 
 #name{
-    font-family: Kitten Swash Monoline;
-    font-size: 105px;
-    font-weight: 900;
+     font-family: Wild Youth;
+    font-size: 79px;
     color: #ffffff;
     position:absolute;
     left: 15%;
     text-align: center;
-    top: 29%;
+    top: 37%;
 }
 
 h1{
